@@ -19,7 +19,6 @@ Bundle the front-end code by entering npm run build in the command line.
 Start the server by entering npm run start in the command line.
 
 
-    ![alt text](assets/images/screenshot.png)
 ![alt text](Assets/image/page1.png)
 
 ![alt text](Assets/image/page2.png)
@@ -30,6 +29,8 @@ Start the server by entering npm run start in the command line.
 
 ![alt text](Assets/image/page5.png)
 
+
+https://github.com/ZDastan/mini-text-editor
 
 
  
