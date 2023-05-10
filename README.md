@@ -20,5 +20,17 @@ Start the server by entering npm run start in the command line.
 
 
     ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](Assets/image/page1.png)
+
+![alt text](Assets/image/page2.png)
+
+![alt text](Assets/image/page3.png)
+
+![alt text](Assets/image/page4.png)
+
+![alt text](Assets/image/page5.png)
+
+
+
+ 
 
